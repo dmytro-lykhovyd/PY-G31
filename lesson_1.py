@@ -18,7 +18,7 @@ def clock():
         hours = 0
         days = 0
 
-    print(f'Today has passed {days} days, {hours} hours, {min_left} minutes from zero hour')
+    print(f'Today have passed {days} days, {hours} hours, {min_left} minutes from zero hour')
 
 
 clock()
@@ -93,6 +93,7 @@ def cel_to_fahr():
 cel_to_fahr()
 
 
+# 6
 def triangle_sqr():
     a = float(input('Input first cathetus lenght:  '))
     b = float(input('Input second cathetus lenght:  '))
@@ -103,7 +104,7 @@ def triangle_sqr():
 triangle_sqr()
 
 
-#6
+# 7
 def triangle_sqr_by_heron():
     a = 6
     b = 4
